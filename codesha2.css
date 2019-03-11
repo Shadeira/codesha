@@ -112,7 +112,7 @@ body {
 }
 
 /* Fake image, just for this example */
-.fakeimg {
+.box {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
