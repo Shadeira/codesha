@@ -72,7 +72,7 @@ body {
 .main {   
   -ms-flex: 70%; /* IE10 */
   flex: 70%;
-  background-color: green;
+  background-color: yellow;
   padding: 20px;
 }
 
