@@ -104,7 +104,16 @@
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:100px"></textarea>
 
-    <input type="submit" value="Submit" a href="contact.html"</a>
+    <input type="submit" value="Submit"/>
+    <?
+if $_POST['form_Submit']=1
+{
+
+	echo "Thank you for submitting your email!";
+	eXit();
+
+
+}
   </form>
 </div>
  
